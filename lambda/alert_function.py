@@ -1,0 +1,1 @@
+# Python Lambda function to send email alert via SNS
